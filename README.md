@@ -1,0 +1,2 @@
+# ckola
+*skola
